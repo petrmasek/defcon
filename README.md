@@ -26,7 +26,7 @@ You can run it without parameters as command line tool or you can run it with pa
 
 Configuration is in **config/defcon.config**
 
-- defcon_check_period - how often it should check the current defcon level - in minutes
+- defcon_check_period - how often it should check the current defcon level - in seconds
 - telegram_bot_id - ID of your Telegram bot (you need to create one at first)
 - telegram_trading_group_id - ID of Telegram group which will be receiving notification
 - debug - for testing purposes
