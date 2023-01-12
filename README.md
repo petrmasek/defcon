@@ -12,7 +12,9 @@ It runs in infinite loop.
 
 ## How to run it
 
-You can run it without parameters as command line tool or you can run it with parameter start as daemon.
+You can run it without parameters as command line tool or you can run it with parameter start as daemon:
+
+**python defcon.py**
 
 ### Daemon parameters
 
